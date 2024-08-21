@@ -10,4 +10,4 @@
 * git push --set-upstream origin master
 * -si todo sae ok debería apareer un enuciado cuyo final sea:
 * branch 'master' set up to track 'origin/master'.
-* LISTO
+ LISTO
