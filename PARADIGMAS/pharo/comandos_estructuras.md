@@ -21,10 +21,15 @@ super (ref al objeto padre)<br>
 nil<br>
 thisContext<br>
 
+Ordered Collection:<br>
 ![Descripción de la imagen](imagenes/image-1.png)
-
-
-
-
+<br>
+ARRAY<br>
+![Descripción de la imagen](imagenes/2.png)
+<br>
+BLOQUES<br>
+![Descripción de la imagen](imagenes/3.png)
+![Descripción de la imagen](imagenes/44.png)
+<br>
 
 
