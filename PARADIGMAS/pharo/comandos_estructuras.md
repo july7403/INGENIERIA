@@ -1,3 +1,6 @@
+INICIO:<br>
+Transcript show:'hola mundo'.<br>
+
 ESTRUCTURAS: <br>
 Variables: | variable1 varibale2 | => variables locales entre plecas. <br>
 Sentencias: terminan con punto. <br>
@@ -32,4 +35,10 @@ BLOQUES<br>
 ![Descripción de la imagen](imagenes/44.png)
 <br>
 
-
+CLASES: <br>
+|persona|<br>
+persona := Persoona new.<br>
+persona nombre: 'Tomas'.<br>
+persona apellido: 'Orsi'.<br>
+Transcript clear.<br>
+Transcript show:  persona nombreCompleto<br>
