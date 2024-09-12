@@ -42,3 +42,6 @@ persona nombre: 'Tomas'.<br>
 persona apellido: 'Orsi'.<br>
 Transcript clear.<br>
 Transcript show:  persona nombreCompleto<br>
+
+Para guardar clase:<br>
+DO IT =>aparece error.
